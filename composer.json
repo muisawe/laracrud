@@ -1,5 +1,5 @@
 {
-    "name": "digitaldream/laracrud",
+    "name": "muisawe/laracrud",
     "type": "library",
     "description": "Do you have a well structured database and you want to make a Laravel Application on top of it. By using this tools you can generate Models which have necessary methods and property, Request class with rules, generate route from controllers method and its parameter and full features form with validation error message and more with a single line of command",
     "keywords": [
