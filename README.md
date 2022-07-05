@@ -5,7 +5,7 @@ By using this tools you can generate Models which have necessary methods and pro
 
 ### Installation ###
 ```
-composer require digitaldream/laracrud --dev
+composer require muisawe/laracrud --dev
 ```
 
 ## Setting
@@ -36,7 +36,7 @@ Then you can see new commands by running 'php artisan'
 * `laracrud:test {controller} {--api}`: Create test methods for each of the method of a controller
 
 **N.B: --api option will generate api resource. Like Controller, Request, Route, Test. [Dingo API](https://github.com/dingo/api) compatible code will be generated**
- . [See API documentation](https://github.com/digitaldreams/laracrud/wiki/API-Development)
+ . [See API documentation](https://github.com/muisawe/laracrud/wiki/API-Development)
 
 ### How to Use
 
